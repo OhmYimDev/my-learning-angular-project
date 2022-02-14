@@ -1,0 +1,40 @@
+.footer {
+    background-color:   #13181B;
+    overflow: hidden;
+    padding-top: 20px;
+    position: sticky;
+    top: 100%;
+}
+
+h1 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p 
+{
+    color: #fff;
+    font-size: 12px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 1rem; 
+}
+a:hover {
+    color: #c52626;
+}
+
+
+i {
+    padding: 0 10px;
+    font-size: 20px;
+    
+}
+
+.footer-menu {
+    font-weight: bold;
+    font-size: 16px;
+}

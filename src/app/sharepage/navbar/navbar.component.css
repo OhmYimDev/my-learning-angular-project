@@ -1,0 +1,22 @@
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    padding: 0 30px;
+    
+}
+
+.navbar-light .navbar-nav .nav-link.active-link {
+    color: white;
+    font-weight: bold;
+}
+
+nav {
+    background: #101215;
+}
+
+.navbar-brand {
+    color: white;
+    padding: 10px 0;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
